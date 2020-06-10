@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**bold word** *italic word* [link](https://google.com)
 Use the left arrow to go back!
